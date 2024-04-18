@@ -1,6 +1,6 @@
 # A Word of Support from Sunhee
 
-![Extension Logo](<images/sunhee.jpg>)
+![Extension Logo](</src/images/sunhee.jpg>)
 
 ## Introduction
 
