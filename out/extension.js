@@ -40,7 +40,7 @@ function activate(context) {
     // Get a random quote
     const quote = getRandomQuote();
     // Show the random quote in the output channel
-    outputChannel.appendLine(`"${quote.quote}" - ${quote.author}`);
+    outputChannel.appendLine(`"${quote.quote} - ${quote.author}"`);
     // Show the output channel
     outputChannel.show();
 }
