@@ -1,7 +1,5 @@
 # A Word of Support from Sunhee
 
-![Extension Logo](</src/images/sunhee.jpg>)
-
 ## Introduction
 
 A Word of Support from Sunhee is a VS Code extension that displays random Korean quotes in the terminal. Get inspired by insightful quotes from various sources every time you start VS Code!
